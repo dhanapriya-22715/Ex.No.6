@@ -15,7 +15,7 @@ Learners will understand how to design effective prompts for AI tools to assist 
 
 # AI Tool Used
 
-* [ChatGPT]
+* ChatGPT
 * Gemini
 * Claude
 
