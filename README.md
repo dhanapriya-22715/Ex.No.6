@@ -2,13 +2,10 @@
 
 # Date: 22-05-2026
 # Register no:212224230056
-# Aim: Write and implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights with Multiple AI Tools
-
-# AI Tools Required:
- # Title: Framing Prompts for AI-Assisted Project Coding
-
+# Aim:
+   Write and implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights with Multiple AI Tools
+# Title: Framing Prompts for AI-Assisted Project Coding
 ## Objective
-
 Learners will understand how to design effective prompts for AI tools to assist in coding tasks related to mini projects and final year projects. The activity focuses on creating prompts that help AI systems:
 
 * Generate Python code for interacting with APIs
@@ -16,13 +13,9 @@ Learners will understand how to design effective prompts for AI tools to assist 
 * Suggest meaningful insights and next steps
 * Improve coding efficiency and project development
 
-
-
 # AI Tool Used
 
 * [ChatGPT](https://chatgpt.com?utm_source=chatgpt.com)
-
-
 
 # Explanation
 
@@ -36,8 +29,6 @@ Effective prompts should clearly mention:
 * API details
 * Expected comparison or analysis
 
-
-
 # Exercise Description
 
 Students must practice creating prompts that guide AI tools to:
@@ -45,11 +36,7 @@ Students must practice creating prompts that guide AI tools to:
 1. Generate Python code for interacting with multiple APIs
 2. Compare outputs from different APIs and highlight differences
 3. Suggest insights or next steps based on generated results
-
-
-
 # Use Case Scenario
-
 ## Project Scenario
 
 A student is developing a **Weather Analysis Application** that collects weather information from multiple APIs and compares temperature, humidity, and forecast details.
