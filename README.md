@@ -15,7 +15,9 @@ Learners will understand how to design effective prompts for AI tools to assist 
 
 # AI Tool Used
 
-* [ChatGPT](https://chatgpt.com?utm_source=chatgpt.com)
+* [ChatGPT]
+* Gemini
+* Claude
 
 # Explanation
 
