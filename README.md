@@ -261,9 +261,12 @@ The prompts could be refined further by:
 
 ## AI-Assisted Coding Workflow
 
-![Image](https://images.openai.com/static-rsc-4/BJP6SFGYQD9Sgv4Wy9Aogn_eNZdRTKJdxAvhchu7C2AMsvPkbM9Mo_6vnDvRvsMHDlybz2Oq-mszba5sDvBwDDiYybCl6THPdGhKpeNNOwNM8OfxDjxll89WFlC_enRrwIqUFPV6c3WTelRZt4y-9lvXWx8I22Qr_xdwPv_thXXzh7DLT08YiC8USrgpYZWg?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/5CPTZSyl6bqEWQh_3WIFDKeLMD9Icg7OyFzbApB3_SSa0Q9Xc1vbEiXT-J-InFmwfLaX-SOzxInDGz0oao5_367JNADYlzfyO--U88eqpmrSQKi9MFe79Vc_Kn6LbrjTgOfMsZz2pJ2gI87XriF6gozCn8HSxujd5gJTcDgTYCxELCxFhh0K377MAAXhjbhe?purpose=fullsize)
+<table>
+  <tr>
+    <td><img src="https://images.openai.com/static-rsc-4/BJP6SFGYQD9Sgv4Wy9Aogn_eNZdRTKJdxAvhchu7C2AMsvPkbM9Mo_6vnDvRvsMHDlybz2Oq-mszba5sDvBwDDiYybCl6THPdGhKpeNNOwNM8OfxDjxll89WFlC_enRrwIqUFPV6c3WTelRZt4y-9lvXWx8I22Qr_xdwPv_thXXzh7DLT08YiC8USrgpYZWg?purpose=fullsize" width="100%" " /></td>
+    <td><img src="https://images.openai.com/static-rsc-4/5CPTZSyl6bqEWQh_3WIFDKeLMD9Icg7OyFzbApB3_SSa0Q9Xc1vbEiXT-J-InFmwfLaX-SOzxInDGz0oao5_367JNADYlzfyO--U88eqpmrSQKi9MFe79Vc_Kn6LbrjTgOfMsZz2pJ2gI87XriF6gozCn8HSxujd5gJTcDgTYCxELCxFhh0K377MAAXhjbhe?purpose=fullsize" width="100%"/></td>
+  </tr>
+</table>
 
 # Conclusion
 
