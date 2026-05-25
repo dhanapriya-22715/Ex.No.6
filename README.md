@@ -45,6 +45,8 @@ A student is developing a **Weather Analysis Application** that collects weather
 
 The student uses AI prompts to generate Python code and analytical insights.
 
+<img width="1257" height="860" alt="image" src="https://github.com/user-attachments/assets/42d56b11-ac83-4e6f-aa2c-d96cc6144d52" />
+
 ---
 
 # Stage 1: Prompt for Python API Integration
@@ -226,6 +228,9 @@ print(f"OpenWeatherMap Temp: {temp1} °C")
 print(f"WeatherAPI Temp: {temp2} °C")
 print(f"Temperature Difference: {difference} °C")
 ```
+## Expected output:
+<img width="1438" height="808" alt="image" src="https://github.com/user-attachments/assets/746be09f-5c3f-49f2-8ea7-ccd21c6a0b0f" />
+
 
 # Prompt Analysis
 
@@ -263,12 +268,9 @@ The prompts could be refined further by:
 
 ## AI-Assisted Coding Workflow
 
-<table>
-  <tr>
-    <td><img src="https://images.openai.com/static-rsc-4/BJP6SFGYQD9Sgv4Wy9Aogn_eNZdRTKJdxAvhchu7C2AMsvPkbM9Mo_6vnDvRvsMHDlybz2Oq-mszba5sDvBwDDiYybCl6THPdGhKpeNNOwNM8OfxDjxll89WFlC_enRrwIqUFPV6c3WTelRZt4y-9lvXWx8I22Qr_xdwPv_thXXzh7DLT08YiC8USrgpYZWg?purpose=fullsize" width="100%" " /></td>
-    <td><img src="https://images.openai.com/static-rsc-4/5CPTZSyl6bqEWQh_3WIFDKeLMD9Icg7OyFzbApB3_SSa0Q9Xc1vbEiXT-J-InFmwfLaX-SOzxInDGz0oao5_367JNADYlzfyO--U88eqpmrSQKi9MFe79Vc_Kn6LbrjTgOfMsZz2pJ2gI87XriF6gozCn8HSxujd5gJTcDgTYCxELCxFhh0K377MAAXhjbhe?purpose=fullsize" width="100%"/></td>
-  </tr>
-</table>
+<img src="https://images.openai.com/static-rsc-4/BJP6SFGYQD9Sgv4Wy9Aogn_eNZdRTKJdxAvhchu7C2AMsvPkbM9Mo_6vnDvRvsMHDlybz2Oq-mszba5sDvBwDDiYybCl6THPdGhKpeNNOwNM8OfxDjxll89WFlC_enRrwIqUFPV6c3WTelRZt4y-9lvXWx8I22Qr_xdwPv_thXXzh7DLT08YiC8USrgpYZWg?purpose=fullsize" width="80%" />
+<img src="https://images.openai.com/static-rsc-4/5CPTZSyl6bqEWQh_3WIFDKeLMD9Icg7OyFzbApB3_SSa0Q9Xc1vbEiXT-J-InFmwfLaX-SOzxInDGz0oao5_367JNADYlzfyO--U88eqpmrSQKi9MFe79Vc_Kn6LbrjTgOfMsZz2pJ2gI87XriF6gozCn8HSxujd5gJTcDgTYCxELCxFhh0K377MAAXhjbhe?purpose=fullsize" width="80%"/>
+
 
 # Conclusion
 
